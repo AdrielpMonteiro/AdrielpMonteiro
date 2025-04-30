@@ -21,6 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielpMonteiro&hide_progress=true)
 
-### sou apaixonado por programação 🤓, desenvolvimento de software e Atualmente estou a procura  de  uma oportunidade de Estágio 🚀🚀!! 
+### sou apaixonado por programação 🤓, desenvolvimento de software e Atualmente Desenvolvedor Estagiário - São Paulo FC  🚀🚀!! 
 
 
